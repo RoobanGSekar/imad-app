@@ -3,5 +3,5 @@
 <?php
 echo "Hii";
 ?>
-<\body>
-<\html>
+</body>
+</html>
